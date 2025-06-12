@@ -100,11 +100,7 @@ if bt:
         st.success(txt1)
 
 else:
-    st.markdown(f'''
-    <div style="text-align: center; font-size: 20px; color: white; margin-bottom: 5px; 
-                background: #017AD5; padding: 1rem; border-radius: 0.5rem;">
-    Click 'Start prediction' button to start predict!
-    </div>''', unsafe_allow_html=True)
+    pass
 
 st.markdown('''
     <style>
