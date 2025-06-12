@@ -1,0 +1,12 @@
+ID,变量名称,变量描述,变量类型
+1,Age,Age (years),"{""min"":0, ""max"":120,""step"":1, ""default"":75}"
+2,Sex,Sex,"{""Female"":1, ""Male"":2,""default"":""Female""}"
+3,Race,Race,"{""White"":1, ""Black"":2,""Mexican"":3, ""Others"":4,""default"":""White""}"
+4,Stooping_difficulty,"Difficulty in stooping, bending, or kneeling","{""No difficulty"":1, ""Some difficulty"":2,""Much difficulty"":3, ""Unable to do"":4,""default"":""Much difficulty""}"
+5,Smoking,Smoking status,"{""Non smoker"":1, ""Former smoker"":2,""Current smoker"":3, ""default"":""Current smoker""}"
+6,Height,Standing Height (cm),"{""min"":80, ""max"":250,""step"":0.1, ""default"":155}"
+7,Weight,Body Weight (kg),"{""min"":20, ""max"":250,""step"":0.1, ""default"":100}"
+8,WC,Waist Circumference (cm),"{""min"":30, ""max"":250,""step"":0.1, ""default"":120}"
+9,TG,Fasting Triglyceride (mg/dL),"{""min"":5, ""max"":5000,""step"":1, ""default"":150.0}"
+10,FPG,Fasting Plasma Glucose (mg/dL),"{""min"":5, ""max"":600,""step"":1, ""default"":120.0}"
+11,HbA1c,Glycohemoglobin (%),"{""min"":4, ""max"":14,""step"":0.1, ""default"":8.0}"
